@@ -1,4 +1,4 @@
-// Exercício 2: Simulação de Movimento Circular com Funções Trigonométricas
+// Simulação de Movimento Circular com Funções Trigonométricas
 
 #include <math.h> // Necessário para M_PI, sin() e cos()
 
